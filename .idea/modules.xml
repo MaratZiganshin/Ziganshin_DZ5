@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ziganshin.iml" filepath="$PROJECT_DIR$/.idea/modules/Ziganshin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ziganshin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Ziganshin_main.iml" group="Ziganshin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ziganshin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Ziganshin_test.iml" group="Ziganshin" />
+    </modules>
+  </component>
+</project>
